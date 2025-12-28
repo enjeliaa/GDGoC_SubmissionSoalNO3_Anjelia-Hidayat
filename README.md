@@ -1,5 +1,4 @@
 # Soal 3: Studi Kasus II (Secure the Crowd!)
-**Backend Development Submission - GDGoC**
 **Created by: Anjelia Hidayat**
 
 Ini adalah solusi untuk tantangan backend "Secure the Crowd". Aplikasi ini dibangun menggunakan **Golang**, **Fiber**, **GORM**, dan **JWT Authentication**.
@@ -88,4 +87,5 @@ Hanya bisa dilakukan oleh akun Admin.
     ```
 
 ---
+
 *Terima kasih.*
